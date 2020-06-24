@@ -1,0 +1,6 @@
+tika
+rake-nltk
+flask
+flask-apscheduler
+mysql-connector-python
+python-dotenv
